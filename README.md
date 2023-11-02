@@ -1,7 +1,7 @@
 
 # Hell
 
-This is the official domain for Hell. Original site can be found in [https://github.com/d3ch/hell](https://github.com/d3ch/hell)
+This is the official domain for Hell v3. Original site can be found in [https://github.com/d3ch/hell](https://github.com/d3ch/hell)
 
 Tired of games and searching being blocked?
 
